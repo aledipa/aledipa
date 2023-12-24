@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi, I'm [Alessandro](https://aledipa.github.io/).
+
+## Stats
+[A](https://github-readme-stats.vercel.app/api?username=aledipa)
 
 <!--
 **aledipa/aledipa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
