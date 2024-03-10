@@ -4,7 +4,7 @@ _Formation, Transformation, Eternal minds in eternal recreation._
 ## About me
 I'm always trying to learn and create something new, check where I have got to so far in my
 
-![Static Badge](https://img.shields.io/badge/%F0%9D%92%9C-Portfolio-gray?style=for-the-badge&link=https%3A%2F%2Faledipa.github.io%2F)
+<a href="https://aledipa.github.io/" target="blank"><img alt="Static Badge" src="https://img.shields.io/badge/%F0%9D%92%9C-Portfolio-gray?style=for-the-badge&link=https%3A%2F%2Faledipa.github.io%2F"></a>
 
 ## Get in touch
 <p align="left">
