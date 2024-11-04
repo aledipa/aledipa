@@ -19,7 +19,7 @@ I'm always trying to learn and create something new, check where I have got to s
 ### Frameworks
 [![My Skills](https://skillicons.dev/icons?i=bootstrap,dotnet,express,flutter,jquery,nodejs,tailwind&theme=light)](https://skillicons.dev)
 ### Softwares & Services
-[![My Skills](https://skillicons.dev/icons?i=androidstudio,figma,firebase,github,gitlab,vscode,wordpress,xd,stackoverflow,npm,bots,docker&perline=9&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=androidstudio,figma,firebase,github,gitlab,vscode,wordpress,stackoverflow,npm,bots,docker&perline=9&theme=light)](https://skillicons.dev)
 
 ## Some numbers
 ![Alessandro Di Pasquale's github stats](https://github-readme-stats.vercel.app/api?username=aledipa&show_icons=true&hide_border=true)
