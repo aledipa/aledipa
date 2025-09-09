@@ -17,7 +17,7 @@ I'm always trying to learn and create something new, check where I have got to s
 ### Languages
 [![My Skills](https://skillicons.dev/icons?i=python,js,html,css,cs,c,cpp,bash,dart,git,gradle,java,kotlin,mysql,sqlite,ts,php&perline=9&theme=light)](https://skillicons.dev)
 ### Frameworks
-[![My Skills](https://skillicons.dev/icons?i=bootstrap,dotnet,express,flutter,jquery,nodejs,tailwind&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=angular,bootstrap,dotnet,express,flutter,jquery,nodejs,tailwind&theme=light)](https://skillicons.dev)
 ### Softwares & Services
 [![My Skills](https://skillicons.dev/icons?i=androidstudio,figma,firebase,github,gitlab,vscode,wordpress,stackoverflow,npm,bots,docker&perline=9&theme=light)](https://skillicons.dev)
 
