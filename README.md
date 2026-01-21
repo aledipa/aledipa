@@ -23,7 +23,7 @@ I'm always trying to learn and create something new, check where I have got to s
 
 ## Some numbers
 ![Alessandro Di Pasquale's github stats](https://ghstats-opal.vercel.app/api?username=aledipa)
-[![trophy](https://github-profile-trophy-7gvcfs9cn-alessandros-projects-2cb07ac9.vercel.app/?username=aledipa&rank=-C,-B,-?&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy-lovat-gamma.vercel.app/?username=aledipa&rank=-C,-B,-?&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
 <!--
 **aledipa/aledipa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
